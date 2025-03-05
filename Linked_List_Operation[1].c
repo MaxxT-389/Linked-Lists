@@ -1,3 +1,7 @@
+LINKED LISTS
+Maxwell Thuo SCT221-0347/2023
+Ian Gichana SCT221-0102/2023
+
 #include <stdio.h>
 #include <stdlib.h>
 
